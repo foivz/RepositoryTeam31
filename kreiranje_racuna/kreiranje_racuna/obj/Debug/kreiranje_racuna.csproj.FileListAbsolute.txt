@@ -1,0 +1,10 @@
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\bin\Debug\kreiranje_racuna.exe.config
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\bin\Debug\kreiranje_racuna.exe
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\bin\Debug\kreiranje_racuna.pdb
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.csprojResolveAssemblyReference.cache
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.Form1.resources
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.Properties.Resources.resources
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.csproj.GenerateResource.Cache
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.exe
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.pdb
+c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.Stol.resources
