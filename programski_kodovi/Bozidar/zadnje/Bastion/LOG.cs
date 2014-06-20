@@ -86,10 +86,10 @@ namespace Bastion
         /// ne smije vratiti broj veci od 1 jer username mora biti jedinsven...u bazi nije definiran kao unique
         /// </summary>
         /// <returns></returns>
-        public int provjera_username()
+        public int provjera_username(string imeTablice, string kime, string upiti)
         {
             string sqlProvjeri = "";
-            sqlProvjeri = "select count(*) from korisnik where Username = '" + kime + "';";
+            sqlProvjeri = "select count(*) from " + imeTablice + " where " + upiti + "= '" + kime + "';";
             return baza.Instance.DohvatiV(sqlProvjeri);
         }
     }

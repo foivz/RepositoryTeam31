@@ -62,7 +62,7 @@ namespace Bastion
             bool user = false; //user postoji u bazi
             //provjera usernamea i passworda u bazi
             int rez_user = 0; //ako user ne postoji u bazi ne trazi mu lozinku
-            rez_user = log.provjera_username();
+            rez_user = log.provjera_username("korisnik",textBox1.Text,"Username");
             string dohvat = "";
             
             

@@ -47,11 +47,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="administrator.cs">
+    <Compile Include="..\..\moje_final\administrator.cs">
       <SubType>Form</SubType>
+      <Link>administrator.cs</Link>
     </Compile>
-    <Compile Include="administrator.Designer.cs">
+    <Compile Include="..\..\moje_final\administrator.Designer.cs">
       <DependentUpon>administrator.cs</DependentUpon>
+      <Link>administrator.Designer.cs</Link>
     </Compile>
     <Compile Include="baza.cs" />
     <Compile Include="brisiKorisnika.cs">
@@ -104,6 +106,12 @@
     <Compile Include="popisArtikala.Designer.cs">
       <DependentUpon>popisArtikala.cs</DependentUpon>
     </Compile>
+    <Compile Include="pregledNamirnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pregledNamirnica.Designer.cs">
+      <DependentUpon>pregledNamirnica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stol.cs">
@@ -124,8 +132,9 @@
     <Compile Include="urediKorisnika.Designer.cs">
       <DependentUpon>urediKorisnika.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="administrator.resx">
+    <EmbeddedResource Include="..\..\moje_final\administrator.resx">
       <DependentUpon>administrator.cs</DependentUpon>
+      <Link>administrator.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="brisiKorisnika.resx">
       <DependentUpon>brisiKorisnika.cs</DependentUpon>
@@ -150,6 +159,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="popisArtikala.resx">
       <DependentUpon>popisArtikala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pregledNamirnica.resx">
+      <DependentUpon>pregledNamirnica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

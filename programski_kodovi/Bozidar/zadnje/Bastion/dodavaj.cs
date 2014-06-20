@@ -42,6 +42,13 @@ namespace Bastion
                     Username = dr["Username"].ToString();
                     Password = dr["Password"].ToString();
                 }
+                if (broj == 4)
+                {
+                    Naziv_namirnice = dr["naziv"].ToString();
+                    Kolicina_namirnice = int.Parse(dr["kolicina"].ToString());
+                    Nabavna_cijena_namirnice = float.Parse(dr["nabavna_cijena"].ToString());
+                    Jedinicna_mjera_namirnice = dr["jed_mjera"].ToString();
+                }
             }
             
         }
@@ -61,7 +68,77 @@ namespace Bastion
         private string grad;
         private string username;
         private string password;
-        
+
+        //DODAO BOZIDAR
+        private string nazivNam;
+        private int kolicinaNam;
+        private float nabavna_cijenaNam;
+        private string jedinicna_mjeraNam;
+
+        public string Naziv_namirnice
+        {
+            get
+            {
+                return nazivNam;
+            }
+            private set
+            {
+                if (nazivNam != value)
+                {
+                    nazivNam = value;
+                }
+            }
+        }
+
+        public int Kolicina_namirnice
+        {
+            get
+            {
+                return kolicinaNam;
+            }
+            private set
+            {
+                if (kolicinaNam != value)
+                {
+                    kolicinaNam = value;
+                }
+            }
+        }
+
+        public float Nabavna_cijena_namirnice
+        {
+            get
+            {
+                return nabavna_cijenaNam;
+            }
+            private set
+            {
+                if (nabavna_cijenaNam != value)
+                {
+                    nabavna_cijenaNam = value;
+                }
+            }
+        }
+
+        public string Jedinicna_mjera_namirnice
+        {
+            get
+            {
+                return jedinicna_mjeraNam;
+            }
+            private set
+            {
+                if (jedinicna_mjeraNam != value)
+                {
+                    jedinicna_mjeraNam = value;
+                }
+            }
+        }
+
+
+
+
+
         public int Sifra_art
         {
             get

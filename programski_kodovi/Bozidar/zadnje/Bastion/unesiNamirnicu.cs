@@ -24,8 +24,29 @@ namespace Bastion
             float cijena = float.Parse(this.textBoxCijena.Text);
             string mjera = this.textBoxMjera.Text;
 
-            string upit = "insert into namirnice(sifra_nam,naziv,kolicina,nabavna_cijena,jed_mjera) values(null,'"+naziv+"','"+kolicina+"','"+cijena+"','"+mjera+");";
-            baza.Instance.IzvrsiUpit(upit);
+
+            //pregled dali namirnica postoji
+            LOG instancaLOG = new LOG();
+
+
+
+            if (instancaLOG.provjera_username("namirnice", naziv, "naziv") == 0)
+            {
+                string upit = "insert into namirnice(sifra_nam,naziv,kolicina,nabavna_cijena,jed_mjera) values(null,'" + naziv + "','" + kolicina + "','" + cijena + "','" + mjera + "');";
+                baza.Instance.IzvrsiUpit(upit);
+            }
+            else 
+            {
+                this.textBoxNaziv.Text = "";
+                this.textBoxKolicina.Text = "";
+                this.textBoxMjera.Text = "";
+                this.textBoxCijena.Text = "";
+                MessageBox.Show(naziv + " vec postoji u bazi!");
+            }
+
+            
+
+            
             
         }
     }

@@ -21,7 +21,7 @@ namespace Bastion
         {
             List<dodavaj> artikli = dodavaj.select("korisnik",2);
             dataGridView1.DataSource = artikli;
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 8; i++)
                 this.dataGridView1.Columns[i].Visible = false;
         }
 

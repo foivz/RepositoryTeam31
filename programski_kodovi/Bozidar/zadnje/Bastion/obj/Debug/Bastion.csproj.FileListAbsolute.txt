@@ -69,3 +69,4 @@ C:\Users\Bozidar\Desktop\Projekti\PI\zadnje\Bastion\obj\Debug\Bastion.csproj.Gen
 C:\Users\Bozidar\Desktop\Projekti\PI\zadnje\Bastion\obj\Debug\Bastion.urediKorisnika.resources
 C:\Users\Bozidar\Desktop\Projekti\PI\zadnje\Bastion\obj\Debug\Bastion.brisiKorisnika.resources
 C:\Users\Bozidar\Desktop\Projekti\PI\zadnje\Bastion\obj\Debug\Bastion.unesiNamirnicu.resources
+C:\Users\Bozidar\Desktop\Projekti\PI\zadnje\Bastion\obj\Debug\Bastion.pregledNamirnica.resources

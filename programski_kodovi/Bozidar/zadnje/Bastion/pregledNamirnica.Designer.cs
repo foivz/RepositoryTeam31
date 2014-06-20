@@ -1,6 +1,6 @@
 ﻿namespace Bastion
 {
-    partial class listaKorisnikacs
+    partial class pregledNamirnica
     {
         /// <summary>
         /// Required designer variable.
@@ -35,21 +35,21 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 0);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(739, 394);
+            this.dataGridView1.Size = new System.Drawing.Size(620, 426);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // listaKorisnikacs
+            // pregledNamirnica
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(740, 395);
+            this.ClientSize = new System.Drawing.Size(644, 450);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "listaKorisnikacs";
-            this.Text = "listaKorisnikacs";
-            this.Load += new System.EventHandler(this.listaKorisnikacs_Load);
+            this.Name = "pregledNamirnica";
+            this.Text = "pregledNamirnica";
+            this.Load += new System.EventHandler(this.pregledNamirnica_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
