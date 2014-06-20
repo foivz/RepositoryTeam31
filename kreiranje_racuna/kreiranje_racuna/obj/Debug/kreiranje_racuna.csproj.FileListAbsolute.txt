@@ -8,3 +8,6 @@ c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiran
 c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.exe
 c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.pdb
 c:\users\jtrupina\documents\visual studio 2012\Projects\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.Stol.resources
+C:\Users\jtrupina\Documents\GitHub\RepositoryTeam31\kreiranje_racuna\kreiranje_racuna\bin\Debug\kreiranje_racuna.exe.config
+C:\Users\jtrupina\Documents\GitHub\RepositoryTeam31\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.exe
+C:\Users\jtrupina\Documents\GitHub\RepositoryTeam31\kreiranje_racuna\kreiranje_racuna\obj\Debug\kreiranje_racuna.pdb

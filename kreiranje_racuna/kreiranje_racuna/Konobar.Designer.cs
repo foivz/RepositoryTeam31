@@ -1,6 +1,6 @@
 ﻿namespace kreiranje_racuna
 {
-    partial class Form1
+    partial class Konobar
     {
         /// <summary>
         /// Required designer variable.

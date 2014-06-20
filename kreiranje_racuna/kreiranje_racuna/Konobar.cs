@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace kreiranje_racuna
 {
-    public partial class Form1 : Form
+    public partial class Konobar : Form
     {
-        public Form1()
+        public Konobar()
         {
             InitializeComponent();
         }
