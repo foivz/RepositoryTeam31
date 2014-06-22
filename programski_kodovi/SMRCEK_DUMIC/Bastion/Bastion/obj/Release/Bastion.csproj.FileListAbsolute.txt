@@ -1,0 +1,13 @@
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Release\Bastion.exe.config
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.administrator.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.dodaj.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.dodajArtikl.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.Bastion.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.korisnik.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.listaKorisnikacs.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.obracun.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.popisArtikala.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.Popis_narudzbenica.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.prodartikl.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.Properties.Resources.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Release\Bastion.csproj.GenerateResource.Cache

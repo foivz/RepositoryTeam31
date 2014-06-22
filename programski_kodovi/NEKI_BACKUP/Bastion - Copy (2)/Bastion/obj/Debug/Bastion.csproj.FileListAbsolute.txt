@@ -1,0 +1,78 @@
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\bin\Debug\Bastion.exe.config
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.administrator.resources
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.Bastion.resources
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.korisnik.resources
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.Properties.Resources.resources
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.csproj.GenerateResource.Cache
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\bin\Debug\Bastion.exe
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\bin\Debug\Bastion.pdb
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.exe
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.pdb
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\bin\Debug\System.Data.SQLite.dll
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\bin\Debug\System.Data.SQLite.xml
+c:\users\dragutin\documents\visual studio 2012\Projects\Bastion\Bastion\obj\Debug\Bastion.csprojResolveAssemblyReference.cache
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\bin\Debug\Bastion.exe.config
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.exe
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.pdb
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\bin\Debug\Bastion.exe
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\bin\Debug\Bastion.pdb
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.csprojResolveAssemblyReference.cache
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.administrator.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.Bastion.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.korisnik.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.Properties.Resources.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.csproj.GenerateResource.Cache
+C:\Users\jtrupina\Dropbox\PI\Bastion\Bastion\bin\Debug\Bastion.exe.config
+C:\Users\jtrupina\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.exe
+C:\Users\jtrupina\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.pdb
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.dodaj.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.dodajArtikl.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.popisArtikala.resources
+C:\Users\Dragutin\Dropbox\PI\Bastion\Bastion\obj\Debug\Bastion.listaKorisnikacs.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\Bastion.exe.config
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.exe
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.pdb
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\Bastion.exe
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\Bastion.pdb
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.csprojResolveAssemblyReference.cache
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.administrator.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.dodaj.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.dodajArtikl.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.Bastion.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.korisnik.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.listaKorisnikacs.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.popisArtikala.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.Properties.Resources.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.csproj.GenerateResource.Cache
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.obracun.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.Popis_narudzbenica.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.prodartikl.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\itextsharp.dll
+C:\Users\Smrcek\Desktop\Bastion\Bastion\bin\Debug\itextsharp.xml
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.promet.resources
+C:\Users\Smrcek\Desktop\Bastion\Bastion\obj\Debug\Bastion.statkor.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\Bastion.exe.config
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.exe
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.pdb
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\Bastion.exe
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\Bastion.pdb
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\itextsharp.dll
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\itextsharp.xml
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.csprojResolveAssemblyReference.cache
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.administrator.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.dodaj.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.dodajArtikl.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.Bastion.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.korisnik.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.listaKorisnikacs.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.obracun.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.popisArtikala.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.Popis_narudzbenica.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.prodartikl.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.promet.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.Properties.Resources.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.statkor.resources
+C:\Users\Smrcek\Desktop\Bastion - Copy (2)\Bastion\obj\Debug\Bastion.csproj.GenerateResource.Cache
