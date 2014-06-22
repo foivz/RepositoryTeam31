@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bastion.administrator">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQSAgAACoCASDgAIAAmRAIgCSnkBAkk4AiQQEUBEEAA=</HashCode>
+      <FileName>administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.backup" Collapsed="true">
+    <Position X="6.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>backup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.baza" Collapsed="true">
+    <Position X="8.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoCAEAAAABAAAAAABAAAAAQCACgAAAAAA=</HashCode>
+      <FileName>baza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.briasnjeArtikl">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAABAAAACAAAASAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>briasnjeArtikl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.brisiKorisnika">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oCIAAAAAASAAABCAAACAAABCIAAAIAAAECAAIAAgAAA=</HashCode>
+      <FileName>brisiKorisnika.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.dodaj">
+    <Position X="28" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAIAAQAASAgABCQAACAAABCIAAIAAAAEEAAAAAEAAA=</HashCode>
+      <FileName>dodaj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.dodajArtikl">
+    <Position X="25.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSCAgAACISAwCAgQAAmQCABSaIgBgEgwEgAAAEAAEAA=</HashCode>
+      <FileName>dodajArtikl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.dodavaj" Collapsed="true">
+    <Position X="4.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgGCFlEYwjZBGAAgBxAACAMAAgglAABKBRCAAgEBgxg=</HashCode>
+      <FileName>dodavaj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Bastion">
+    <Position X="32.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQCAAQAACQAABAAAACACAAWAAAIIAAAEUAAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Konobar">
+    <Position X="30" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAUEASAAAFAAEACQAAACBsA9qAAAAHAuAQBEDwg=</HashCode>
+      <FileName>Konobar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.korisnik">
+    <Position X="45.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgAAAACAAAACAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>korisnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.kreirajNarudzbu">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAQAACAAAACAAg4BACAEGAAAAAAAAA=</HashCode>
+      <FileName>kreirajNarudzbu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.listaKorisnikacs">
+    <Position X="38.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAi4ZwAAAAAAAAAAIBA=</HashCode>
+      <FileName>listaKorisnikacs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.LOG" Collapsed="true">
+    <Position X="2" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAgABACAAgQAAAAAIAAAAAAAAAAAAAAAAAgo=</HashCode>
+      <FileName>LOG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.naruciArtikl">
+    <Position X="34.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACEgABAQAACACAAGAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>naruciArtikl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.obracun">
+    <Position X="36.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABSCABCAAABCIAA4AAAAEHAAAAAAAAA=</HashCode>
+      <FileName>obracun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Pomoc">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>Pomoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.popisArtikala">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYCAgAACICAwCAggIAmQAAACQJghgEgwAhAAAFAAEAE=</HashCode>
+      <FileName>popisArtikala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.popisNarudzbi">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEACAQABAAAACAAAACABg4BAAAAAAAAAAAAAA=</HashCode>
+      <FileName>popisNarudzbi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.prodartikl">
+    <Position X="40.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARSAACAAABICAACgAAICAAg4AAAAAHABAAAAABA=</HashCode>
+      <FileName>prodartikl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.promet">
+    <Position X="19.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgACAAABICAACAAAACAAkoAAAAAFABAEEAABA=</HashCode>
+      <FileName>promet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.statkor">
+    <Position X="43" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAACAgABAQAACAAABCIAAIAAAAEEAAAAAgAAA=</HashCode>
+      <FileName>statkor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Stol">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACASAAABCQBQCAAABCIAg5IQAAEGQAAAAACAI=</HashCode>
+      <FileName>Stol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Storniraj">
+    <Position X="21.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAgAAAQAADAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Storniraj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.urediArtkl">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAgABAAABCAAABSAAAIIAACEEAAAAAAAAA=</HashCode>
+      <FileName>urediArtkl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.urediKorisnika">
+    <Position X="23.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCAAAAAAASAAABCAgACAAABCIAi4ZwgAEGAAIAAAIAA=</HashCode>
+      <FileName>urediKorisnika.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bastion.Properties.Resources" Collapsed="true">
+    <Position X="1" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
